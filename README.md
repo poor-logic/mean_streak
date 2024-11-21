@@ -58,3 +58,8 @@ Notes
 - Included in the initial commit are all the processed csv files for the end of the 2024 season. These were left to provide data to the mlb_daily_report.xlsx file so as to provide an example of the dashboard visualization.
 
 - The run_reversion and stats_to_csv modules are automatically set to current year. The games_to_csv module is automatically set for todays date. To configure this, you will need to go into each module and edit the dates within each url to run the script for custom dates.
+
+- There are 3 third party libraries used within the Python files and will need to be installed before the files are run:
+  1) BeautifulSoup
+  2) Pandas
+  3) Unidecode
