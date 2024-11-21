@@ -20,16 +20,16 @@ From these calculations, we can see how a team is faring by comparing their seas
 
 Modules
 -------
-games_to_csv
+<ins>**games_to_csv**</ins>
 This module interacts with the mlb.com API and retrieves the MLB games for today. After it retrieves the games, it writes the game schedule to a csv file (games.csv) in the Data folder.
 
-stats_to_csv
+<ins>**stats_to_csv**</ins>
 This module interacts with the mlb.com API to retrieve stats and write each set of stats into its own csv file in the Data folder. 
 
-run_reversion
+<ins>**run_reversion**</ins>
 This module scrapes baseball-reference.com for schedules and scores for each team. It then calculates the run and runs against averages for the last_n_games and writes it to a csv file(run_reversion_{num}) in the Data folder. The module default will produce 3 csv files. One each for the last 3, 5, and 10 games.
 
-web_extract
+<ins>**web_extract**</ins>
 This module contains functions for retrieving files from the internet and writing csv files to the machine.
 
 
