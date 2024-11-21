@@ -1,0 +1,118 @@
+baseOnBallsPer9,BB/9
+winPercentage,Win%
+flyHits,Fly Hits
+walksPerStrikeout,BB/SO
+hitBatsmen,Hits p/Batter
+rank,Rank
+battersFaced,Batters Faced
+positionAbbrev,Position
+leagueAbbrev,League
+baseOnBalls,BB
+teamAbbrev,Team Abbreviation
+walkOffs,Walk Offs
+hitByPitch,HBP
+gidpOpp,GIDP Opponent
+earnedRuns,Earned Runs
+leagueShortName,League Short Name
+teamShortName,Team Short Name
+hitsPer9,H/9
+ballsInPlay,Balls in Play
+era,ERA
+runs,Runs
+totalSwings,Total Swings
+inheritedRunnersScored,Inherited Runners Scored
+position,Position
+obp,OBP
+pitchesPerInning,Pitches/9
+inningsPitched,Innings Pitched
+pickoffs,Pickoffs
+whip,Whip
+playerFirstName,PLayer First Name
+swingAndMisses,Swing and Misses
+popOuts,Pop Outs
+primaryPositionAbbrev,Primary Position Abbreviation
+winningPercentage,Win%
+runSupport,Run Support
+balks,Balks
+teamName,Team Name
+rbi,RBI
+playerFullName,Player Name
+extraBaseHits,Extra Base Hits
+strikeOuts,SO
+qualityStarts,Quality Starts
+popHits,Pop Hits
+iso,ISO
+saveOpportunities,Save Oppertunities
+bequeathedRunnersScored,Bequeathed Runner Scored
+gidp,GIDP
+triples,3B
+intentionalWalks,IBB
+homeRunsPer9,HR/9
+outs,Outs
+stolenBasePercentage,Stolen Base %
+avg,Batting Average
+strikeoutsPerPlateAppearance,SO/Plate Appearance
+bequeathedRunners,Bequeathed Runners
+playerId,Player ID
+hits,Hits
+wins,Wins
+groundHits,Ground Hits
+saves,Saves
+sacBunts,Sacrifice Bunts
+strikes,Strikes
+leagueName, League Name
+babip,BABIP
+type,Type
+flyOuts,Flyouts
+strikesoutsToWalks,SO to BB
+homeRunsPerPlateAppearance,HR/Plate Appearance
+totalBases,Total Bases
+doubles,2B
+strikeoutWalkRatio,SO/BB
+gamesPlayed,Games Played
+leagueId,League ID
+airOuts,Air Outs
+plateAppearances,Plate Appearances
+caughtStealing,Caught Stealing
+playerName,Player Name
+sacFlies,Sacrifice Flies
+walksPer9Inn,BB/9
+slg,SLG
+strikePercentage,SO%
+pitchesPerPlateAppearance,Pitches/Plate Appearance
+stolenBases,SB
+losses,Losses
+hitsPer9Inn,H/9
+outsPitched,Outs Pitched
+runsScoredPer9,R/9
+shortName, Short Name
+atBats,AB
+teamId,Team ID
+lineOuts,Line Outs
+lineHits,Line Hits
+reachedOnError,ROE
+balls,Balls
+groundOuts,Ground Outs
+gamesFinished,Games Finished
+shutouts,Shutouts
+catchersInterference,Catchers Interference
+leftOnBase,Left on Base
+playerInitLastName, Player Last Initial
+playerUseName,Player Use Name
+inheritedRunners,Inherited Runners
+strikeoutsPer9,SO/9
+groundIntoDoublePlay,GIDP
+completeGames,Complete Games
+numberOfPitches,Total Pitches
+wildPitches,Wild Pitches
+ops,OPS
+holds,Holds
+gamesPitched,Games Pitched
+strikeoutsPer9Inn,SO/9
+playerLastName,Player Last Name
+atBatsPerHomeRun,AB/HR
+gamesStarted,Games Started
+walksPerPlateAppearance,BB/PA
+blownSaves,Blown Saves
+groundOutsToAirouts,GO/Air Outs
+homeRuns,HR

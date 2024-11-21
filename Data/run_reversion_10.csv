@@ -1,0 +1,32 @@
+Team Run Average Reggression
+Team,Season Avg. R,10 Game Avg. R,Season Avg. RA,10 Game Avg. RA
+Chicago White Sox,3.13,0.57,5.02,-1.92
+St. Louis Cardinals,4.15,0.65,4.44,-0.54
+Philadelphia Phillies,4.84,0.26,4.14,1.46
+Pittsburgh Pirates,4.1,-0.9,4.56,-0.36
+Cincinnati Reds,4.31,-1.81,4.28,0.02
+Los Angeles Dodgers,5.2,2.2,4.23,-0.73
+Los Angeles Angels,3.92,-0.32,4.92,1.68
+San Diego Padres,4.69,-0.89,4.13,-0.83
+Washington Nationals,4.07,-0.67,4.72,-1.02
+Atlanta Braves,4.35,0.75,3.75,-1.05
+Colorado Rockies,4.21,-0.11,5.73,1.27
+Toronto Blue Jays,4.14,-1.34,4.59,-0.09
+San Francisco Giants,4.28,0.22,4.31,-0.91
+Miami Marlins,3.93,1.57,5.19,0.41
+New York Mets,4.74,-0.94,4.3,0.8
+Texas Rangers,4.22,0.28,4.56,-0.16
+Milwaukee Brewers,4.8,-0.6,3.96,0.14
+Boston Red Sox,4.64,-1.04,4.61,-1.41
+Baltimore Orioles,4.85,0.75,4.31,-0.31
+Arizona Diamondbacks,5.47,-0.37,4.86,-0.26
+Detroit Tigers,4.21,-0.51,3.96,-0.46
+New York Yankees,5.03,0.47,4.12,-0.02
+Oakland Athletics,3.97,-0.97,4.72,0.28
+Minnesota Twins,4.58,-1.48,4.54,1.36
+Seattle Mariners,4.17,1.43,3.75,-0.75
+Kansas City Royals,4.54,-2.64,3.98,-1.18
+Houston Astros,4.6,-0.1,4.03,0.67
+Tampa Bay Rays,3.73,-1.23,4.09,-1.69
+Chicago Cubs,4.54,-0.74,4.13,-0.73
+Cleveland Guardians,4.4,-0.8,3.86,-0.76
